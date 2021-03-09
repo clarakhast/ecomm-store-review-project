@@ -15,3 +15,4 @@ Read and complete the steps in the following documents:
 - The live url must be added to appropriate field of the repository's "About" (top-right)
 - Both urls (code, and live) will be collected prior to the first deliverable being due
 - See the project overview (above) for details on submissions, as well as a form
+# Daisy-Candles
